@@ -113,10 +113,11 @@ ul {
 }
 .video-container video {
     width: 100%;
-    height: auto;
+    height: 225px;
     border-radius: 10px;
 }
 }
+
 
 
 
