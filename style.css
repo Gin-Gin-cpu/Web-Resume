@@ -139,8 +139,7 @@ ul {
 
 .video-container {
     position: relative;
-    width: 100%;
-    max-width: 400px;         
+    width: 400px;         
     padding-bottom: 225px; 
     height: 225px;
     overflow: hidden;
@@ -163,6 +162,7 @@ ul {
     height: 100%;     
     border-radius: 20px;
 }
+
 
 
 
