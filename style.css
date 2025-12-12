@@ -199,13 +199,16 @@ ul {
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-.Certifications {
-    width: 100%;
-    max-width: 450px;
-    border-radius: 10px;
+.Certifications img {
+    width: 100%;          
+    max-width: 300px;   
+    height: auto;        
     display: block;
-    margin-bottom: 10px;
+    margin: 0 auto 15px;  
+    border-radius: 10px;  
 }
+
+
 
 
 
